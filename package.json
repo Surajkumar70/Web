@@ -1,0 +1,18 @@
+{
+  "name": "Download-Images",
+  "version": "1.0.0",
+  "description": "Download-Images of a given URL.",
+  "main": "script.js",
+  "scripts": {
+    "start": "scripts"
+  },
+  "author": "Roshan Lale",
+  "license": "ISC",
+  "dependencies": {
+    "cherio": "^1.0.0-rc.2",
+    "fs": "0.0.1-security",
+    "readline-sync": "^1.4.10",
+    "request": "^2.88.2"
+  }
+}
+
